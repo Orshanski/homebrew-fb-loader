@@ -1,6 +1,6 @@
 cask "fb-loader" do
-  version "1.3.1"
-  sha256 "565af16bd066082213638a1ff58a5a9f18162158d16b7793896e1c710f41c902"
+  version "1.3.2"
+  sha256 "86d97c552b86a8e5ede97efe903fdbe631259b8216c261a584561df7e9568129"
 
   url "https://github.com/Orshanski/fb-loader/releases/download/v#{version}/FB.Loader-#{version}.dmg"
   name "FB Loader"
