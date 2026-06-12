@@ -7,7 +7,7 @@ cask "fb-loader" do
   desc "INPX-based FB2 library browser for Flibusta"
   homepage "https://github.com/Orshanski/fb-loader"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "FB Loader.app"
 
